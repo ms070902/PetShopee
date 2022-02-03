@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513772495147",
+    "project_id": "petshopee-5740f",
+    "storage_bucket": "petshopee-5740f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513772495147:android:d2bf17e817dd599ddbe56e",
+        "android_client_info": {
+          "package_name": "com.example.petshopee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513772495147-jdqo38nhot45b59u2qc007qe3796ihd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petshopee",
+            "certificate_hash": "d60973eaf47a1155b3930fb2ea693f5e0e00c3b7"
+          }
+        },
+        {
+          "client_id": "513772495147-9loegjova1b7c3vdn5u7g7thp5raptmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7meEEEp3QmkhJJo2_-UgWRFeTTwD_w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513772495147-9loegjova1b7c3vdn5u7g7thp5raptmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

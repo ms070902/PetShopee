@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PetShopee</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dog</string>
+    <string name="menu_gallery">Cat</string>
+    <string name="menu_slideshow">Bird</string>
+    <string name="menu_fish">Fish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id_1" translatable="false">513772495147-9loegjova1b7c3vdn5u7g7thp5raptmc.apps.googleusercontent.com</string>
+
+
+
+    <string-array name="category">
+        <item>Dogs</item>
+        <item>Cats</item>
+        <item>Birds</item>
+        <item>Fishes</item>
+    </string-array>
+
+
+</resources>
